@@ -2,4 +2,4 @@ extraction:
   java:
     index:
       build_command:
-      - javac Ifs.java
+      - javac Hostname.java
